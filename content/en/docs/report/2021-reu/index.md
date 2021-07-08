@@ -103,7 +103,7 @@ REU 2021.
 ---
 
 * {{% addprojectreport
-  title="TBD"
+  title="Detecting Multiple Sclerosis Symptoms using Al"
   hid="su21-reu-371" 
   author="Raeven Hatcher"
   %}}
